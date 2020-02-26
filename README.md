@@ -2,4 +2,4 @@
 
 Game Engine: UNITY
 
-Projects where I learned basics with LeapMotion, Vuforia and Adurino.
+Projects where I learned basics with LeapMotion, Vuforia and Adruino.
