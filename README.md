@@ -1,4 +1,4 @@
-# unity-basics-with-leapmotion-vuforia-adruino
+# unity-basics-with-leapmotion-vuforia-ardruino
 
 Game Engine: UNITY
 
